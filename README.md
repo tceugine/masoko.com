@@ -1,4 +1,4 @@
-# Kisumu-hotel
+# Masoko
 #### This is a website 
 #### Eugine
 ## Description 
